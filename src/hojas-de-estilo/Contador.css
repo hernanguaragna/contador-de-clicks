@@ -1,0 +1,15 @@
+.contador{
+  min-width: 350px;
+  height: 350px;
+  font-size: 160px;
+  padding: 2px;
+  color: #F8CB2E;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  border: 10px solid #F8CB2E;
+  border-radius: 20px;
+  font-style:inherit;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
