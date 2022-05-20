@@ -16,13 +16,13 @@ function App() {
 
   return (
     <div className="App">
-      <div className='imagen-logo-contenedor'>
+      {/* <div className='imagen-logo-contenedor'>
         <img
         className='contador-logo'
-        //src={abaco}
+        src={abaco}
         alt="Contador Imagen" />
 
-      </div>
+      </div> */}
       <div className="contenedor-principal">
         <Contador numClicks={numClicks} />
         <Boton
